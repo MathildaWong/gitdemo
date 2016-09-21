@@ -1,0 +1,3 @@
+[submodule "libs/watson"]
+	path = libs/watson
+	url = https://github.com/WatsonYao/gitdemo.git
